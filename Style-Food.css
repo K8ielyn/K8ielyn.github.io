@@ -1,0 +1,191 @@
+body{
+  background-image: url(http://www.tavernailchiccoduva.it/wp-content/uploads/2014/05/istock_000026174689_large.jpg);
+  background-attachment: fixed;
+}
+h1 {
+  color: 	#FDF9F9;
+  font-family:"Satisfy", sans-serif;
+  font-size: 120px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  color: #FFEFD5;
+  font-family:"Quicksand", sans-serif;
+  font-size: 45px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    background-color: #FAEBD7;
+    overflow: hidden;
+    font-family: "Satisfy", sans-serif;
+    font-weight: bold;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #DB7093;
+}
+
+.NavBar a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.Question {
+  font-family: "Satisfy", sans-serif;
+  font-size: 35px;
+  text-align: center;
+  color: white;
+}
+
+.Answers button {
+  font-family: "Quicksand", sans-serif;
+  font-size: 50px;
+  border-radius: 16px;
+  background-color: #FFFFFF;
+  color: #000000;
+  cursor: pointer;
+  border: none;
+  padding: 60px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+}
+
+.Answers button:hover {
+  color:#FFFFFF;
+}
+
+.Answers button:focus {
+  color:#FFFFFF;
+}
+
+.Ame:hover {
+  background-color: #F6546A;
+}
+.Ame:focus {
+  background-color: #F6546A;
+}
+.Mex:hover {
+  background-color: #FFA500;
+}
+.Mex:focus {
+  background-color: #FFA500;
+}
+.Chi:hover {
+  background-color: #990000;
+}
+.Chi:focus {
+  background-color: #990000;
+}
+.Bri:hover {
+  background-color: #DAA520;
+}
+.Bri:focus {
+  background-color: #DAA520;
+}
+.IC:hover {
+  background-color: #FFC0CB;
+}
+.IC:focus {
+  background-color: #FFC0CB;
+}
+.Ca:hover {
+  background-color: #8D5524;
+}
+.Ca:focus {
+  background-color: #8D5524;
+}
+.Pi:hover {
+  background-color: #FF4040;
+}
+.Pi:focus {
+  background-color: #FF4040;
+}
+.FT:hover {
+  background-color: #D248C5;
+}
+.FT:focus {
+  background-color: #D248C5;
+}
+.AB:hover {
+  background-color: #DD252F;
+}
+.AB:focus {
+  background-color: #DD252F;
+}
+.MB:hover {
+  background-color: #C82538;
+}
+.MB:focus {
+  background-color: #C82538;
+}
+.KB:hover {
+  background-color: #0B7988;
+}
+.KB:focus {
+  background-color: #0B7988;
+}
+.Spa:hover {
+  background-color: #CA3304
+}
+.Spa:focus {
+  background-color: #CA3304
+}
+.CM:hover {
+  background-color: #46CC3F;
+}
+.CM:focus {
+  background-color: #46CC3F;
+}
+.PP:hover {
+  background-color: #05CD32;
+}
+.PP:focus {
+  background-color: #05CD32;
+}
+.Pho:hover {
+  background-color: #B18A49;
+}
+.Pho:focus {
+  background-color: #B18A49;
+}
+.Ch:hover {
+  background-color: #E1D840;
+}
+.Ch:focus {
+  background-color: #E1D840;
+}
+.Cr:hover {
+  background-color: #E8064A;
+}
+.Cr:focus {
+  background-color: #E8064A;
+}
+.CW:hover {
+  background-color: #740001;
+}
+.CW:focus {
+  background-color: #740001;
+}

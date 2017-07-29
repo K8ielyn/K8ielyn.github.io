@@ -1,0 +1,148 @@
+body {
+    background-image: url(https://static1.squarespace.com/static/5126e4d9e4b0b0266dfa5124/t/552c821ee4b0d3f184874b0b/1428980257417/piano-keys-wallpaper1.jpg?format=1500w);
+    background-attachment: fixed;
+}
+h1 {
+  color: 	#FDF9F9;
+  font-family:"Satisfy", sans-serif;
+  font-size: 120px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  color: #DDD;
+  font-family:"Quicksand", sans-serif;
+  font-size: 45px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight:bold;
+}
+ul {
+    list-style-type: none;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    background-color: #FAEBD7;
+    overflow: hidden;
+    font-family: "Satisfy", sans-serif;
+    font-weight: bold;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #DB7093;
+}
+
+li a.active {
+    background-color: #DB7093;
+    color: white;
+}
+
+.Question {
+  font-family: "Satisfy", sans-serif;
+  font-size: 35px;
+  text-align: center;
+  color: white;
+}
+
+.Answers button {
+  font-family: "Quicksand", sans-serif;
+  font-size: 50px;
+  border-radius: 16px;
+  background-color: #FFFFFF;
+  color: #000000;
+  cursor: pointer;
+  border: none;
+  padding: 60px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+}
+
+.Answers button:hover {
+  color:#FFFFFF;
+}
+.Answers button:focus {
+  color:#FFFFFF;
+}
+
+.Answers:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.Pia:hover {
+  background-color: #000000;
+}
+.Pia:focus {
+  background-color: #000000;
+}
+.Vio:hover {
+  background-color: #A0522D;
+}
+.Vio:focus {
+  background-color: #A0522D;
+}
+.Tru:hover {
+  background-color: #DAA520;
+}
+.Tru:focus {
+  background-color: #DAA520;
+}
+.Flu:hover {
+  background-color: #A9A9A9;
+}
+.Flu:focus {
+  background-color: #A9A9A9;
+}
+.Pop:hover {
+  background-color: #00FFFF;
+}
+.Pop:focus {
+  background-color: #00FFFF;
+}
+.Jaz:hover {
+  background-color: #8A2BE2;
+}
+.Jaz:focus {
+  background-color: #8A2BE2;
+}
+.Roc:hover {
+  background-color: #FF0000;
+}
+.Roc:focus {
+  background-color: #FF0000;
+}
+.Cla:hover {
+  background-color: #DB7093;
+}
+.Cla:focus {
+  background-color: #DB7093;
+}
+.B:hover{
+  background-color:#8B0000
+}
+.B:focus{
+  background-color:#8B0000
+}
+.R:hover {
+  background-color:#FF00FF
+}
+.R:focus{
+  background-color:#FF00FF
+}

@@ -1,0 +1,245 @@
+body {
+    background-image: url(https://cdn.regiondo.net/media/catalog/product/cache/5/image/5e06319eda06f020e43594a9c230972d/t/i/ticket-image-01431532893-cropped500-290/ballonfahrt-bei-mailand-39110.jpg);
+    background-attachment: fixed;
+}
+h1 {
+  color: #2F4F4F;
+  font-family:"Satisfy", sans-serif;
+  font-size: 120px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  color:#778899;
+  font-family:"Quicksand", sans-serif;
+  font-size: 45px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight:bold;
+}
+ul {
+    list-style-type: none;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    background-color: #FAEBD7;
+    overflow: hidden;
+    font-family: "Satisfy", sans-serif;
+    font-weight: bold;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #DB7093;
+}
+
+li a.active {
+    background-color: #DB7093;
+    color: white;
+}
+
+.Question {
+  font-family: "Satisfy", sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+
+.Answers button {
+  font-family: "Quicksand", sans-serif;
+  font-size: 50px;
+  border-radius: 16px;
+  background-color: #FFFFFF;
+  color: #000000;
+  cursor: pointer;
+  border: none;
+  padding: 60px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+}
+
+.Answers button:hover {
+  color:#FFFFFF;
+}
+
+.Answers button:focus {
+  color:#FFFFFF;
+}
+
+.Answers:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.P:hover {
+  background-color: #F8A8BF;
+}
+.P:focus {
+  background-color: #F8A8BF;
+}
+.H:hover {
+  background-color: #FF5C5C;
+}
+.H:focus {
+  background-color: #FF5C5C;
+}
+.L:hover {
+  background-color: #3399FF;
+}
+.L:focus {
+  background-color: #3399FF;
+}
+.B:hover {
+  background-color: #FF4444;
+}
+.B:focus {
+  background-color: #FF4444;
+}
+.Ka:hover {
+  background-color: #2EE3D3;
+}
+.Ka:focus {
+  background-color: #2EE3D3;
+}
+
+.Oa:hover {
+  background-color: #18CA8A;
+}
+.Oa:focus {
+  background-color: #18CA8A;
+}
+.Ma:hover {
+  background-color: #B3ECEC;
+}
+.Ma:focus {
+  background-color: #B3ECEC;
+}
+.La:hover {
+  background-color: #00FF83;
+}
+.La:focus {
+  background-color: #00FF83;
+}
+.Yo:hover {
+  background-color: #008000;
+}
+.Yo:focus {
+  background-color: #008000;
+}
+.Ye:hover {
+  background-color: #FFFF66;
+}
+.Ye:focus {
+  background-color: #FFFF66;
+}
+.GC:hover {
+  background-color: #FF7F50;
+}
+.GC:focus {
+  background-color: #FF7F50;
+}
+.BF:hover {
+  background-color: #F08080;
+}
+.BF:focus {
+  background-color: #F08080;
+}
+.Fa:hover {
+  background-color: #66CDAA;
+}
+.Fa:focus {
+  background-color: #66CDAA;
+}
+.NO:hover {
+  background-color: #888;
+}
+.NO:focus {
+  background-color: #888;
+}
+.BP:hover {
+  background-color: #088DA5;
+}
+.BP:focus {
+  background-color: #088DA5;
+}
+.SG:hover {
+  background-color: #C39797;
+}
+.SG:focus {
+  background-color: #C39797;
+}
+.SB:hover {
+  background-color: #DAA520;
+}
+.SB:focus {
+  background-color: #DAA520;
+}
+.Cam:hover {
+  background-color: #0E2F44;
+}
+.Cam:focus {
+  background-color: #0E2F44;
+}
+.FC:hover {
+  background-color: #946B2D;
+}
+.FC:focus {
+  background-color: #946B2D;
+}
+.EH:hover {
+  background-color: #FFDC73;
+}
+.EH:focus {
+  background-color: #FFDC73;
+}
+.Tr:hover {
+  background-color: #A47C48;
+}
+.Tr:focus {
+  background-color: #A47C48;
+}
+.S:hover {
+  background-color: #FC913A;
+}
+.S:focus {
+  background-color: #FC913A;
+}
+.E:hover {
+  background-color: #9ACD32;
+}
+.E:focus {
+  background-color: #9ACD32;
+}
+.T:hover {
+  background-color: #7FFFD4;
+}
+.T:focus {
+  background-color: #7FFFD4;
+}
+.M:hover {
+  background-color: #A0FFFF;
+}
+.M:focus {
+  background-color: #A0FFFF;
+}
+.F:hover {
+  background-color: #008000;
+}
+.F:focus {
+  background-color: #008000;
+}

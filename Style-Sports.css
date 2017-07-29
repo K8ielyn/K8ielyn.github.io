@@ -1,0 +1,129 @@
+body {
+    background-image: url(https://static1.squarespace.com/static/587a53886a4963fff6c7056a/t/58a71de6440243fd0b653f5b/1487347179105/?format=1500w);
+    background-attachment: fixed;
+}
+h1 {
+  color: 	#FDF9F9;
+  font-family:"Satisfy", sans-serif;
+  font-size: 120px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  color: #333;
+  font-family:"Quicksand", sans-serif;
+  font-size: 45px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight:bold;
+}
+ul {
+    list-style-type: none;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    background-color: #FAEBD7;
+    overflow: hidden;
+    font-family: "Satisfy", sans-serif;
+    font-weight: bold;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #DB7093;
+}
+
+li a.active {
+    background-color: #DB7093;
+    color: white;
+}
+
+.Question {
+  font-family: "Satisfy", sans-serif;
+  font-size: 35px;
+  text-align: center;
+  color: white;
+}
+
+.Answers button {
+  font-family: "Quicksand", sans-serif;
+  font-size: 50px;
+  border-radius: 16px;
+  background-color: #FFFFFF;
+  color: #000000;
+  cursor: pointer;
+  border: none;
+  padding: 60px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+}
+
+.Answers button:hover {
+  color:#FFFFFF;
+}
+.Answers button:focus {
+  color:#FFFFFF;
+}
+.Answers:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.Ten:hover {
+  background-color:#6B8E23
+}
+.Ten:focus {
+  background-color:#6B8E23
+}
+.Bas:hover {
+  background-color:#FF8C00
+}
+.Bas:focus {
+  background-color:#FF8C00
+}
+.Vol:hover {
+  background-color:#A9A9A9
+}
+.Vol:focus {
+  background-color:#A9A9A9
+}
+.Swi:hover {
+  background-color:#40E0D0
+}
+.Swi:focus {
+  background-color:#40E0D0
+}
+.CS:hover {
+  background-color:#008B8B
+}
+.CS:focus {
+  background-color:#008B8B
+}
+.BF:hover {
+  background-color:#9932CC
+}
+.BF:focus {
+  background-color:#9932CC
+}
+.GE:hover {
+  background-color:#FF7F50
+}
+.GE:focus {
+  background-color:#FF7F50
+}

@@ -1,0 +1,231 @@
+body {
+  background-image: url(https://static1.squarespace.com/static/568e2b9b841aba52462c9732/t/56ac8f5b22482e393fe873a8/1454149526199/1494275.jpg?format=1500w);
+  background-attachment: fixed;
+}
+h1 {
+  color: #2F4F4F;
+  font-family:"Satisfy", sans-serif;
+  font-size: 120px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  color:#666;
+  font-family:"Quicksand", sans-serif;
+  font-size: 45px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight:bold;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    background-color: #FAEBD7;
+    overflow: hidden;
+    font-family: "Satisfy", sans-serif;
+    font-weight: bold;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #DB7093;
+}
+
+.NavBar a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.Question {
+  font-family: "Satisfy", sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+
+.Answers button {
+  font-family: "Quicksand", sans-serif;
+  font-size: 50px;
+  border-radius: 16px;
+  background-color: #FFFFFF;
+  color: #000000;
+  cursor: pointer;
+  border: none;
+  padding: 60px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+}
+
+.Answers button:hover {
+  color:#FFFFFF;
+}
+.Answers button:focus {
+  color:#FFFFFF;
+}
+.Answers:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.HP:hover {
+  background-color: #DC143C;
+}
+.HP:focus {
+  background-color: #DC143C;
+}
+.PJ:hover {
+  background-color:#008CBA;
+}
+.PJ:focus {
+  background-color:#008CBA;
+}
+.HG:hover {
+  background-color: #8B0000;
+}
+.HG:focus {
+  background-color: #8B0000;
+}
+.CN:hover {
+  background-color: #1D2951;
+}
+.CN:focus {
+  background-color: #1D2951;
+}
+.JA:hover {
+  background-color: #DB7093;
+}
+.JA:focus {
+  background-color: #DB7093;
+}
+.LL:hover {
+  background-color: #2F4F4F;
+}
+.LL:focus {
+  background-color: #2F4F4F;
+}
+.WS:hover {
+  background-color: #DC143C;
+}
+.WS:focus {
+  background-color: #DC143C;
+}
+.JG:hover {
+  background-color: #48D1CC;
+}
+.JG:focus {
+  background-color: #48D1CC;
+}
+.SS:hover {
+  background-color:#B22222;
+}
+.SS:focus {
+  background-color:#B22222;
+}
+.CS:hover {
+  background-color: #8B0000;
+}
+.CS:focus {
+  background-color: #8B0000;
+}
+.PA:hover {
+  background-color: #48D1CC;
+}
+.PA:focus {
+  background-color: #48D1CC;
+}
+.GF:hover {
+  background-color: #FFA07A;
+}
+.GF:focus {
+  background-color: #FFA07A;
+}
+.OP:hover {
+  background-color: #00008B;
+}
+.OP:focus {
+  background-color: #00008B;
+}
+.HB:hover {
+  background-color: #006400;
+}
+.HB:focus {
+  background-color: #006400;
+}
+.DH:hover {
+  background-color: #FF8C00;
+}
+.DH:focus {
+  background-color: #FF8C00;
+}
+.CC:hover {
+  background-color: #DAA520;
+}
+.CC:focus {
+  background-color: #DAA520;
+}
+.MT:hover {
+  background-color:#48D1CC
+}
+.MT:focus {
+  background-color: #48D1CC
+}
+.CD:hover {
+  background-color:#8B0000
+}
+.CD:focus {
+  background-color: #8B0000
+}
+.RJ:hover {
+  background-color:#C71585
+}
+.RJ:focus {
+  background-color:#C71585
+}
+.TS:hover {
+  background-color:#483D8B
+}
+.TS:focus {
+  background-color:#483D8B
+}
+.MN:hover {
+  background-color:#DB7093
+}
+.MN:focus {
+  background-color:#DB7093
+}
+.RB:hover {
+  background-color:#87CEFA
+}
+.RB:focus {
+  background-color:#87CEFA
+}
+.WB:hover {
+  background-color:#00BFFF
+}
+.WB:focus {
+  background-color:#00BFFF
+}
+.PB:hover {
+  background-color:#9932CC
+}
+.PB:focus {
+  background-color:#9932CC
+}
