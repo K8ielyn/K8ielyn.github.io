@@ -135,14 +135,14 @@ li a.active {
   background-color: #DB7093;
 }
 .B:hover{
-  background-color:#8B0000
+  background-color:#8B0000;
 }
 .B:focus{
-  background-color:#8B0000
+  background-color:#8B0000;
 }
 .R:hover {
-  background-color:#FF69B4
+  background-color:#FF69B4;
 }
 .R:focus{
-  background-color:#FF69B4
+  background-color:#FF69B4;
 }
