@@ -86,10 +86,10 @@ li a.active {
 }
 
 .Ten:hover {
-  background-color:#6B8E23
+  background-color:#008000
 }
 .Ten:focus {
-  background-color:#6B8E23
+  background-color:#008000
 }
 .Bas:hover {
   background-color:#FF8C00
@@ -126,4 +126,16 @@ li a.active {
 }
 .GE:focus {
   background-color:#FF7F50
+}
+.GC:hover {
+  background-color:#3CB371
+}
+.GC:focus {
+  background-color:#3CB371
+}
+.BB:hover {
+  background-color:#FF0000
+}
+.BB:focus {
+  background-color:#FF0000
 }
